@@ -113,5 +113,7 @@ else { b; }
 
   </div>
 
+  <script src="js/tasks/task-1.js"></script>
+
 <!-- Footer -->
 <?php include 'inc/footer.php' ?>

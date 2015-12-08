@@ -31,5 +31,7 @@
 
   </div>
 
+  <script src="js/tasks/task-3.js"></script>
+
 <!-- Footer -->
 <?php include 'inc/footer.php' ?>

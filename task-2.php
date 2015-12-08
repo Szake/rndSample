@@ -32,7 +32,7 @@
 
   </div>
 
-  <script src="js/task-2.js"></script>
+  <script src="js/tasks/task-2.js"></script>
 
 <!-- Footer -->
 <?php include 'inc/footer.php' ?>
